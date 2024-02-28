@@ -1,2 +1,0 @@
-# beni
-nettside til beni
